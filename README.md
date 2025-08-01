@@ -69,6 +69,7 @@ Continuously exploring new technologies in software development, data science an
 
 
 
+
 <!-- Links of Definitions -->
 [linkedin]: https://www.linkedin.com/in/viplaviwade/  
 [gmail]: mailto:wadeviplavi@gmail.com "Let's connect through email"  
