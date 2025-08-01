@@ -53,9 +53,15 @@ Continuously exploring new technologies in software development, data science an
 
 <h2 style="border-bottom: none;">📈 Github Stats:</h2>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ViplaviWade&show_icons=true&locale=en" alt="viplaviwade" />
-<br/><br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViplaviWade&show_icons=true&locale=en&layout=compact" alt="viplaviwade" />
+<!-- GitHub Profile Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=ViplaviWade&show_icons=true&locale=en" alt="GitHub Stats" />
+
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViplaviWade&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+
+<!-- Contribution Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ViplaviWade&theme=default&hide_border=false" alt="GitHub Streak" />
+
 
 <!-- Links of Definitions -->
 [linkedin]: https://www.linkedin.com/in/viplaviwade/  
