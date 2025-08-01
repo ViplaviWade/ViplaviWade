@@ -44,9 +44,9 @@ Continuously exploring new technologies in software development, data science an
 
 ---
 ## 📈 **Github Stats:**
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=piyushak22&show_icons=true&locale=en" alt="piyushakhode" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ViplaviWade&show_icons=true&locale=en" alt="viplaviwade" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushak22&show_icons=true&locale=en&layout=compact" alt="piyushakhode" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViplaviWade&show_icons=true&locale=en&layout=compact" alt="viplaviwade" />
 
 <!-- Links of Definitions -->
 
