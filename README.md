@@ -62,7 +62,7 @@ Continuously exploring new technologies in software development, data science an
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViplaviWade&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=ViplaviWade&theme=default&hide_border=false" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViplaviWade&theme=default&hide_border=false" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
