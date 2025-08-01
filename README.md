@@ -44,7 +44,7 @@ Continuously exploring new technologies in software development, data science an
   <img src="https://img.shields.io/badge/Gmail-wadeviplavi@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836" />
 </span>
 <span style="margin-left: 24px;">
-  <img src="https://img.shields.io/badge/Github-ViplaviWade-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6" />
+  <img src="https://streak-stats.demolab.com/?user=ViplaviWade&theme=default&hide_border=false" alt="GitHub Streak" />
 </span>
 
 
