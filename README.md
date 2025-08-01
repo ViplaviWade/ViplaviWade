@@ -37,9 +37,16 @@ Continuously exploring new technologies in software development, data science an
 
 <h2 style="border-bottom: none;">🌐 Reach out to me:</h2>
 
-[<img src="https://img.shields.io/badge/LinkedIn-viplaviwade-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]  
-[<img src="https://img.shields.io/badge/Gmail-wadeviplavi@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]  
-[<img src="https://img.shields.io/badge/Github-ViplaviWade-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
+<span>
+  <img src="https://img.shields.io/badge/LinkedIn-viplaviwade-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5" />
+</span>
+<span style="margin-left: 10px;">
+  <img src="https://img.shields.io/badge/Gmail-wadeviplavi@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836" />
+</span>
+<span style="margin-left: 10px;">
+  <img src="https://img.shields.io/badge/Github-ViplaviWade-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6" />
+</span>
+
 
 <hr style="border: none; height: 1px; background-color: #333; margin: 24px 0;" />
 
