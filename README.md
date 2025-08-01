@@ -61,9 +61,6 @@ Continuously exploring new technologies in software development, data science an
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViplaviWade&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
-    <td>
-      ![GitHub Streak](https://img.shields.io/badge/Longest_Streak-28_days-blueviolet?style=for-the-badge&logo=github)
-    </td>
   </tr>
 </table>
 
