@@ -7,7 +7,7 @@
 
 <hr style="border: none; height: 1px; background-color: #333; margin: 24px 0;" />
 
-## 🧠 Tech Stack:
+<h2 style="border-bottom: none;">🧠 Tech Stack:</h2>
 
 - **👨‍💻 Programming Languages**: Python 🐍, Node.js 🌐, Next.js ⚡, JavaScript ✨, TypeScript 🧬, SQL 🗃️  
 - **🎨 Frontend Frameworks**: React.js ⚛️, Angular 🅰️, Tailwind CSS 💨, Bootstrap 🎀  
@@ -21,7 +21,7 @@
 
 <hr style="border: none; height: 1px; background-color: #333; margin: 24px 0;" />
 
-## 🎯 Current Focus:
+<h2 style="border-bottom: none;">🎯 Current Focus:</h2>
 
 - 🚀 Building **scalable and high-performance web applications** using modern frameworks like **React.js** ⚛️ and **Node.js** 🌐, with a strong emphasis on **performance optimization** and **seamless user experience**.  
 - 🛠️ Strengthening **backend & API development** through **microservices architecture**, advanced **database optimization**, and leveraging cloud platforms such as **AWS** ☁️ and **GCP** 🌎.  
@@ -29,13 +29,13 @@
 
 <hr style="border: none; height: 1px; background-color: #333; margin: 24px 0;" />
 
-## 🌱 Always Learning:
+<h2 style="border-bottom: none;">🌱 Always Learning:</h2>
 
 Continuously exploring new technologies in software development, data science and AI to build smarter, scalable solutions 🚀📚.
 
 <hr style="border: none; height: 1px; background-color: #333; margin: 24px 0;" />
 
-## 🌐 Reach out to me:
+<h2 style="border-bottom: none;">🌐 Reach out to me:</h2>
 
 [<img src="https://img.shields.io/badge/LinkedIn-viplaviwade-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]  
 [<img src="https://img.shields.io/badge/Gmail-wadeviplavi@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]  
@@ -43,7 +43,7 @@ Continuously exploring new technologies in software development, data science an
 
 <hr style="border: none; height: 1px; background-color: #333; margin: 24px 0;" />
 
-## 📈 Github Stats:
+<h2 style="border-bottom: none;">📈 Github Stats:</h2>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ViplaviWade&show_icons=true&locale=en" alt="viplaviwade" />
 <br/><br/>
