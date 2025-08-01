@@ -7,9 +7,6 @@
 📫 Reach me at wadeviplavi@gmail.com
 ---
 
-## 💻 Languages I Speak:
-Python 🐍, Java⚡, SQL 🛢️, R 📊, JavaScript 🚀, HTML 🏗️, CSS 🎨
-
 ## 🧠 Tech Stack:
 
 - **👨‍💻 Programming Languages**: Python 🐍, Node.js 🌐, Next.js ⚡, JavaScript ✨, TypeScript 🧬, SQL 🗃️
