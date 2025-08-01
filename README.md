@@ -2,10 +2,10 @@
 
 🔍 **Software Engineer** | 📊 **Full Stack Developer** | 🚀 **Backend Engineer**
 
-🔭 I’m currently working on **React + Django full-stack projects**
-💬 Ask me about Data Structures and Algorithms, Python, Web Frameworks, and Databases
-📫 Reach me at wadeviplavi@gmail.com
----
+🔭 I’m currently working on **React + Django** full-stack projects  
+💬 Ask me about **Data Structures & Algorithms, Python, Web Frameworks, and Databases**  
+📬 Reach me at **wadeviplavi@gmail.com**
+--
 
 ## 🧠 Tech Stack:
 
