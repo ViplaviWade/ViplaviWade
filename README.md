@@ -38,14 +38,23 @@ Continuously exploring new technologies in software development, data science an
 <h2 style="border-bottom: none;">🌐 Reach out to me:</h2>
 
 <span>
-  <img src="https://img.shields.io/badge/LinkedIn-viplaviwade-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5" />[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-viplaviwade-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5)](https://www.linkedin.com/in/viplaviwade/)
+  <a href="https://www.linkedin.com/in/viplaviwade/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-viplaviwade-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5" alt="LinkedIn Badge" />
+  </a>
+</span>
 
-</span>
 <span style="margin-left: 24px;">
-  <img src="https://img.shields.io/badge/Gmail-wadeviplavi@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836" />[![Gmail Badge](https://img.shields.io/badge/Gmail-wadeviplavi@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836)](mailto:wadeviplavi@gmail.com)
+  <a href="mailto:wadeviplavi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-wadeviplavi@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836" alt="Gmail Badge" />
+  </a>
 </span>
+
 <span style="margin-left: 24px;">
-  <img src="https://img.shields.io/badge/GitHub-ViplaviWade-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6" />[![GitHub Badge](https://img.shields.io/badge/GitHub-ViplaviWade-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6)](https://github.com/ViplaviWade/)
+  <a href="https://github.com/ViplaviWade" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ViplaviWade-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6" alt="GitHub Badge" />
+  </a>
+</span>
+
 
 
 
